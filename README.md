@@ -34,7 +34,7 @@ Management needs a consolidated view of hospital activity, billing and insurance
 
 ## VISUALISATION
 
-![](Screenshot5.png)
+![](avenue.png)
 
 The dashboard brings the main activity and financial measures together on one worksheet. The image below shows the final layout with full dataset selected.
 Using the dashboard
@@ -42,3 +42,20 @@ Use the Year, Department, Payment Status and Diagnosis slicers to focus the conn
 The headline figures are rounded for display. The tables in this report provide the more precise supporting values.
 INSIGHTS
 The dataset contains 1,000 visits with 4.8 average day of stay, record of more Females than Males and decline in recorded admission from 2024 to 2025 as well as Total Bill amounting to $ 8,053,143.44 Million. The average insurance coverage was 74.86% displayed as 75%.
+
+## RECOMMENDATIONS.
+
+•	Improve payment records and follow up.
+Review the pending and partially paid records. Record actual receipts, payment dates, insurer receipts and remaining balances for future reports to show actual collections and unpaid amounts.
+
+•	Consider the needs of older service users.
+Account for the visits among people aged 51 and above when reviewing accessibility, appointment support and follow up arrangements.
+
+•	Keep the Dashboard current.
+Add new visit records to the source table, refresh the Pivot Table and confirm that slicers remain connected to the intended reports. Retain consistent field names and clear payment definitions.
+
+## CONCLUSION.
+
+The Excel dashboard provides a consolidated view of 1,000 recorded patient visits across six departments. Admissions and billing varied by month and average insurance coverage differed across departments and diagnosis.
+The analysis highlights payment follow-up and better receipt recording as practical priorities. The $3.48 Million dashboard figure represents the full value of bills not fully paid under the adopted calculation. Actual unpaid balances require the missing partial payment amounts. With these definitions kept clear, the dashboard can support regular review of service demand, billing and insurance coverage.
+
